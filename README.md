@@ -22,4 +22,3 @@ and then run<p>
 and you should be able to open it.
 
 ## Licence
-https://github.com/Banbeucmas/banbeucmas-dotfiles
