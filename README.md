@@ -22,3 +22,6 @@ and then run<p>
 and you should be able to open it.
 
 ## Licence
+  
+## Download
+https://github.com/kamikire/ReimuFetch-For_macOS/archive/refs/heads/main.zip
