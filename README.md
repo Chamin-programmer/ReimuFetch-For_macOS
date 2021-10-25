@@ -20,8 +20,6 @@ chmod +x reimu_fetch<p>
 and then run<p>
 . /reimu_fetch<p>
 and you should be able to open it.
-
-## Licence
   
 ## Download
 https://github.com/kamikire/ReimuFetch-For_macOS/archive/refs/heads/main.zip
